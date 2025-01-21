@@ -1,3 +1,2 @@
 # DigitalImageProcessing
-
-Init Work
+DigitalImageProcessing
